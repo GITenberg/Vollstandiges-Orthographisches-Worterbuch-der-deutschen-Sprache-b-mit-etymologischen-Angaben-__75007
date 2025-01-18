@@ -1,0 +1,26 @@
+_repo: Vollstandiges-Orthographisches-Worterbuch-der-deutschen-Sprache-b-mit-etymologischen-Angaben-__75007
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Duden, Konrad
+    gutenberg_agent_id: '57769'
+    url: http://www.gutenberg.org/2009/agents/57769
+description: ''
+gutenberg_issued: '2025-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75007'
+language: de
+pgterms:marc905: 20180421052944duden
+pgterms:marc906: '1890'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLeipzig :$bVerlag des Bibliographischen Instituts, $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Vollständiges Orthographisches Wörterbuch der deutschen Sprache : $b mit etymologischen
+  Angaben, kurzen Sacherklärungen und Verdeutschungen der Fremdwörter'
+url: http://www.gutenberg.org/ebooks/75007
