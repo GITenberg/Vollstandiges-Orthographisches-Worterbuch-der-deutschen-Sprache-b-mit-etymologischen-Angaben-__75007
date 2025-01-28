@@ -1,11 +1,16 @@
 _repo: Vollstandiges-Orthographisches-Worterbuch-der-deutschen-Sprache-b-mit-etymologischen-Angaben-__75007
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75007-h/images/cover.jpg
 creator:
   author:
     agent_name: Duden, Konrad
     gutenberg_agent_id: '57769'
     url: http://www.gutenberg.org/2009/agents/57769
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75007#Vollstandiges-Orthographisches-Worterbuch-der-deutschen-Sprache-b-mit-etymologischen-Angaben-_
 gutenberg_issued: '2025-01-01'
 gutenberg_type: Text
 identifiers:
